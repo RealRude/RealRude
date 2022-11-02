@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner to immediate projects written in Python.
 - 🎯 My skills include, but are not limited to:
--     📌 SQL
--     📌 Python
+    📌 SQL
+    📌 Python
 -     📌 PHP
 -     📌 RegEx
 -     📌 Photoshop
