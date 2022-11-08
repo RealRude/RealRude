@@ -10,6 +10,6 @@
 📌 Photoshop
 📌 Writing
 - 📫 How to reach me:
--    Twitter 🔗: https://twitter.com/RealRudeKevin
+-    Twitter   🔗: https://twitter.com/RealRudeKevin
 -    Website 🔗: https://realrude.com/
 
