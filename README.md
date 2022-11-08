@@ -7,7 +7,7 @@
 📌 Python
 📌 PHP
 📌 RegEx
-📌 Photoshop
+📌 Adobe Photoshop
 📌 Writing
 - 📫 How to reach me:
 -    🔗 Twitter: https://twitter.com/RealRudeKevin
