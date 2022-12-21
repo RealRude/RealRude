@@ -12,5 +12,6 @@
 - 📫 How to reach me:
 -    🔗 Twitter: https://twitter.com/RealRudeKevin
 -    🔗 Blog: https://realrude.com/
+-    🔗 Codewars: https://www.codewars.com/users/RealRude
 
 Feel free to hit me up if you wanna talk.
